@@ -8,7 +8,7 @@ class SpringbootJenkinsAppApplicationTests {
 
 	@Test
 	void contextLoads() {
-		System.out.println("-----SPRING BOOT : TEST CASES EXECUTION----- ");
+		System.out.println(" -----SPRING BOOT : TEST CASES EXECUTION----- ");
 
 	}
 
