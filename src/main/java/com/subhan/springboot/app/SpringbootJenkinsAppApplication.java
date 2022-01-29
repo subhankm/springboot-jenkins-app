@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringbootJenkinsAppApplication {
 
 	public static void main(String[] args) {
-
+         System.out..println("Subhan");
 	SpringApplication.run(SpringbootJenkinsAppApplication.class, args);
 	}
 
